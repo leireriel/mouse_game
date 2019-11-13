@@ -2,7 +2,7 @@
 
 🐭🧀
 
-<!-- Play now! --> (link) -->
+<!-- Play now! ➜ (link) -->
 
 ## 📅 What am I working on now
 
