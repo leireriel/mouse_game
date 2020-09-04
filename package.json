@@ -18,7 +18,7 @@
   "homepage": "https://github.com/leireriel/mouse_game#readme",
   "dependencies": {
     "eslint": "^6.6.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.19.1"
   }
 }
